@@ -1,8 +1,13 @@
 {
-  "name": "TheGhostMage | elcharitas.eth",
-  "description": "Engineering the Web",
+  "name": "Software engineer crafting seamless web experiences | elcharitas.eth",
+  "description": "I'm a proficient Software Engineer transforming designs into accessible, user-focused web solutions, and fostering collaboration for impactful results.",
   "image_url": "https://avatars.githubusercontent.com/u/30146982",
   "links": [
+    {
+      "title": "Stackoverflow Profile",
+      "url": "https://stackoverflow.com/users/9943028/elcharitas",
+      "icon": "twitter"
+    },
     {
       "title": "LinkedIn",
       "url": "https://linkedin.com/in/elcharitas",
@@ -16,6 +21,11 @@
     {
       "title": "Twitter",
       "url": "http://twitter.com/elcharitas",
+      "icon": "twitter"
+    },
+    {
+      "title": "Hashnode",
+      "url": "https://hashnode.com/@elcharitas",
       "icon": "twitter"
     }
   ]
